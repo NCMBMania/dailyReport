@@ -1,0 +1,4 @@
+adminTool/config.json
+adminTool/node_modules/
+client/www/vendors
+adminTool/bower_components

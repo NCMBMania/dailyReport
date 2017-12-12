@@ -11,3 +11,7 @@ Monaca向けのアプリです。日報の登録と同じ部署のメンバー�
 ## LICENSE
 
 MIT License.
+
+## LINKS
+
+[mBaaSでサーバー開発不要！ | ニフクラ mobile backend](http://mb.cloud.nifty.com/)
